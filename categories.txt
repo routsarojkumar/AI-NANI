@@ -1,0 +1,5 @@
+mythological=Mythological Stories
+historical=Historical Stories
+moral=Moral Stories
+funny=Funny Stories
+web=Web Stories
